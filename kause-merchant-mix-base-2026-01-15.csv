@@ -1,0 +1,38 @@
+Kause Payments - Merchant Mix Sensitivity Model
+
+Scenario: Base Case
+
+YEAR 1 SUMMARY
+Total Volume,25016611
+Merchant Count,76
+Gross Revenue,164484.217325
+Nuvei COGS,86932.72322499998
+Net Revenue,77551.49410000001
+Blended Gross Margin,0.6575%
+Blended Net Margin,0.31000000000000005%
+
+SEGMENT BREAKDOWN - YEAR 1
+Segment,Mix %,Margin %,Volume,Gross Revenue,Nuvei COGS,Net Revenue,Merchants
+Early Childhood Education,35.0,0.8,8755814,70047,30645,39401,18
+B-Corporations,20.0,1,5003322,50033,17512,32522,13
+SMBs (Low Volume),25.0,0.36,6254153,22515,21890,625,31
+Independent Schools,15.0,0.5,3752492,18762,13134,5629,13
+Local Councils,5.0,0.25,1250831,3127,3752,-625,1
+
+YEAR 2 SUMMARY
+Total Volume,100000000
+Merchant Count,281
+Gross Revenue,704500
+Nuvei COGS,347500
+Net Revenue,357000
+Blended Gross Margin,0.7045%
+Blended Net Margin,0.357%
+
+YEAR 3 SUMMARY
+Total Volume,200000000
+Merchant Count,532
+Gross Revenue,1453000
+Nuvei COGS,694999.9999999999
+Net Revenue,758000
+Blended Gross Margin,0.7264999999999999%
+Blended Net Margin,0.379%
